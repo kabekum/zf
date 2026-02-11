@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class ApiService {
   // Change this to your Django backend URL
-  static const String baseUrl = 'http://10.0.2.2:8000'; // For Android emulator
+  static const String baseUrl = 'https://zb-fj8l.onrender.com'; // For Android emulator
   // static const String baseUrl = 'http://localhost:8000'; // For iOS simulator
   // static const String baseUrl = 'http://YOUR_IP:8000'; // For physical device
 
